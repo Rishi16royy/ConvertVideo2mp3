@@ -1,4 +1,5 @@
 # ConvertVideo2mp3
+Download youtube playlist/video and convert it to mp3
 ## Setup
 1. ```brew install youtube-dl```
 2. ```brew install ffmpeg```
